@@ -28,8 +28,8 @@
       "expiresAt": null
     },
     "selectedModel": {
-      "label": "GPT-5",
-      "value": "gpt-5"
+      "label": "GPT-4o",
+      "value": "gpt-4o-2024-08-06"
     }
   },
   "systemPrompt": "You are GitHub Copilot, an AI assistant. You are helping the user with their tasks in Obsidian.",

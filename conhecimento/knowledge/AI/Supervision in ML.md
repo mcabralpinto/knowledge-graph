@@ -1,0 +1,7 @@
+*Refers to whether we use user-validated outputs in the training of a [[Machine Learning]] model.*
+
+### Types of Supervision
+- **Supervised Learning:** Uses labeled data, meaning that the expected output for each input is present in the data. Very useful for **Classification** problems like **Image Recognition**.
+- **Unsupervised Learning:** When validated outputs aren't available. Examples of its use include **Clustering** problems and **Principal Component Analysis ([[PCA]])**.
+- **Semi-Supervised Learning:** Uses a small supervised dataset and a big unsupervised dataset, with the former guiding the learning process for the latter. This is useful for cases where Supervised Learning is necessary but the corresponding dataset is too small for meaningful training.
+- **Self-Supervised Learning:** Also called Predictive/Pretext Learning, it allows a model to train itself on unlabeled data, generating signals from the data itself, rather than requiring human-provided labels. By defining **Pretext Tasks**, the model learns to predict a part of the input from another part, allowing it to learn meaningful representations. Especially useful for jobs like computer vision and NLP, where the volume of labeled training data needed to train models can be exceptionally large.

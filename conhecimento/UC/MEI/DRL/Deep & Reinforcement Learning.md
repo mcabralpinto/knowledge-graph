@@ -1,0 +1,1 @@
+[[MEI]] subject. Involves tests and projects about [[Deep Learning]] and [[Reinforcement Learning]].

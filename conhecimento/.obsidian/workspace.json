@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "042f3fac1f04fc5e",
+        "id": "fd46d6e9c2438de6",
         "type": "tabs",
         "children": [
           {
-            "id": "8d85bc7394f83e57",
+            "id": "5ab982a21647299c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/AI/Supervision in ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supervision in ML"
             }
           }
         ]
@@ -81,16 +85,16 @@
     "type": "split",
     "children": [
       {
-        "id": "351df802901d3aea",
+        "id": "c62c11694765f242",
         "type": "tabs",
         "children": [
           {
-            "id": "c991dfb3180133ab",
+            "id": "f6a7f807b66d4673",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/PM/SparkLLM.md",
+                "file": "knowledge/AI/Feature Selection & Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SparkLLM"
+              "title": "Backlinks for Feature Selection & Reduction"
             }
           },
           {
-            "id": "6cdc3bfbb0f45091",
+            "id": "7abd1c36973fd688",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEI/PM/SparkLLM.md",
+                "file": "knowledge/AI/Feature Selection & Reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SparkLLM"
+              "title": "Outgoing links from Feature Selection & Reduction"
             }
           },
           {
-            "id": "231f4bc1b3cd4854",
+            "id": "63b21cd91aedb750",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "a27c174c359dc031",
+            "id": "20e3c209a24ddc5d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,32 +151,22 @@
             }
           },
           {
-            "id": "56edad6fe64cf433",
+            "id": "31229fbb0427a823",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/PM/SparkLLM.md",
+                "file": "knowledge/AI/Feature Selection & Reduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SparkLLM"
+              "title": "Outline of Feature Selection & Reduction"
             }
           },
           {
-            "id": "2aa3bf50d5e1f738",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
-          },
-          {
-            "id": "1abe519f5d56be59",
+            "id": "ffd6ddaa296a0efc",
             "type": "leaf",
             "state": {
               "type": "github-copilot-chat-view",
@@ -203,45 +197,48 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5cd819d3c87cb01b",
+  "active": "5ab982a21647299c",
   "lastOpenFiles": [
-    "UC/MEI/DRL/Deep & Reinforcement Learning.md",
-    "knowledge/AI/Artificial Intelligence.md",
-    "UC/MEI/DRL",
-    "knowledge/AI/Neural Network.md",
-    "knowledge/IT/SQL.md",
     "knowledge/AI/Machine Learning.md",
-    "knowledge/AI/Natural Language Processing.md",
-    "knowledge/IT/SPARQL.md",
-    "knowledge/IT/RDF.md",
-    "knowledge/IT/Protégé.md",
-    "knowledge/AI/LLM.md",
-    "[[XML.md",
-    "UC/MEI/KL/chatty-guide.md",
+    "knowledge/AI/Supervision in ML.md",
+    "knowledge/AI/Artificial Intelligence.md",
+    "knowledge/AI/Reinforcement Learning.md",
+    "knowledge/AI/Human-AI Interaction.md",
+    "knowledge/AI/Explainable AI (XAI).md",
     "UC/MEI/PM/PM Case Studies.md",
-    "knowledge/AI/tech",
-    "knowledge/AI/tech/Ollama.md",
-    "Terraria.md",
+    "UC/MEI/KL/chatty-guide.md",
+    "UC/MEI/DRL/Deep & Reinforcement Learning.md",
+    "UC/MEI/MEI.md",
+    "aaa_media/Spark_LLM_Architecture.png",
+    "aaa_media/Pasted image 20251215112034.png",
+    "aaa_media/Pasted image 20251215112013.png",
+    "knowledge/AI/Feature Selection & Reduction.md",
+    "knowledge/AI/Classifiers.md",
+    "knowledge/AI/Class Imbalance.md",
+    "knowledge/math/Bayes’ Theorem.md",
+    "knowledge/math/Covariance Matrix.md",
+    "knowledge/math/Statistical Measures.md",
+    "knowledge/math/Matrix Operations.md",
     "UC/MEI/PM/SparkLLM.md",
+    "UC/MEI/PM/Project Management.md",
+    "knowledge/math",
+    "Untitled.canvas",
+    "().md",
+    "knowledge/AI/Neural Network.md",
+    "knowledge/AI/Natural Language Processing.md",
+    "knowledge/AI/LLM.md",
+    "migeul/Github/catan-strategy-guide.md",
+    "knowledge/IT/Ontology.md",
+    "knowledge/IT/tech/OWL.md",
+    "knowledge/IT/tech",
+    "UC/MEI/DRL",
+    "knowledge/AI/tech",
     "UC",
     "knowledge/IT",
     "knowledge/AI",
     "knowledge",
-    "aaa_media/Spark_LLM_Architecture.png",
-    "UC/MEI/KL/Knowledge & Language.md",
-    "MEI/Spark_LLM_Architecture.png.md",
-    "Knowledge Representation.md",
-    "migeul/Github/mcabralpinto (GH).md",
-    "migeul/Github/bin-packing-algorithms.md",
-    "UC/MEI/PM/Project Management.md",
     "UC/MEI/KL",
-    "2025-11-17.md",
     "aaa_media",
-    "UC/MEI/MEI.md",
-    "migeul/Github/catan-strategy-guide.md",
-    "src",
-    "migeul",
-    "Pasted image 20251117123508.png",
-    "Untitled.canvas"
+    "Pasted image 20251117123508.png"
   ]
 }

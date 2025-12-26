@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "path:migeul  ",
+      "query": "path:knowledge/IT/tech  ",
       "color": {
         "a": 1,
-        "rgb": 13751313
+        "rgb": 10084811
       }
     },
     {
@@ -40,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:migeul  ",
+      "color": {
+        "a": 1,
+        "rgb": 13751313
       }
     },
     {
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9096125883575812,
-  "close": false
+  "scale": 0.7120823210788416,
+  "close": true
 }
