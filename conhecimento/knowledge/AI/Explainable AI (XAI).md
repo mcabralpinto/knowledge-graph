@@ -1,1 +1,0 @@
-*Exploration of methods for making AI's decisions understandable to humans.*

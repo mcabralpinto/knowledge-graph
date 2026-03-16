@@ -1,0 +1,5 @@
+*[[Embedding]] of a set of items within a space in which items resembling each other are positioned closer to one another.*
+
+- In most cases, the dimensionality $D$ of the latent space is chosen to be lower than that of the feature space from which the data points are drawn, making the construction of a latent space an example of dimensionality reduction. 
+- Achieving clear interpretations of latent spaces remains challenging. The black-box nature of ML models can make it difficult to understand the meaning of the latent dimensions, and the relationships between them, particularly in high-dimensional/complex/nonlinear spaces.
+- **Latent Vectors**: The coordinates of data points in the latent space, which can be manipulated to generate new data or understand relationships between existing data.

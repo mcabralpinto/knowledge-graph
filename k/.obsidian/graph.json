@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:knowledge/IT/tech  ",
+      "color": {
+        "a": 1,
+        "rgb": 9941725
+      }
+    },
+    {
+      "query": "path:knowledge/IT  ",
+      "color": {
+        "a": 1,
+        "rgb": 5408992
+      }
+    },
+    {
+      "query": "path:knowledge/AI/tech  ",
+      "color": {
+        "a": 1,
+        "rgb": 12950427
+      }
+    },
+    {
+      "query": "path:knowledge/AI  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:UC/MEI  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:knowledge/math ",
+      "color": {
+        "a": 1,
+        "rgb": 13751313
+      }
+    },
+    {
+      "query": "path:knowledge/other  ",
+      "color": {
+        "a": 1,
+        "rgb": 7462994
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 0.797817047817048,
+  "lineSizeMultiplier": 1.97952182952183,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6416232253534467,
+  "close": true
+}

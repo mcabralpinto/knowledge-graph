@@ -1,1 +1,0 @@
-*Also known as NLP, it is a field of AI that uses [[Machine Learning]] to understand and generate human-like language.*
