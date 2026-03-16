@@ -1,0 +1,1 @@
+*Discriminative probabilistic graphical model used for structured prediction, particularly for labeling sequential data or image.*

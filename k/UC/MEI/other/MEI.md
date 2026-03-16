@@ -1,1 +1,0 @@
-*My master's degree course, which started in 2025 and (presumably?) ended in 2027.*

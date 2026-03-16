@@ -1,3 +1,0 @@
-*Means Web Ontology Language. Formal language for creating an [[Ontologies & Vocabularies|ontology]], allowing computers to understand information.*
-
-Expands on [[RDF]] by providing additional vocabulary for describing properties and classes, including relations between classes (e.g., disjointness), cardinality (e.g., "exactly one"), equality, richer typing of properties, characteristics of properties (e.g., symmetry), and enumerated classes.
