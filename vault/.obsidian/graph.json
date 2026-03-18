@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:knowledge/IT/tech  ",
@@ -61,12 +61,12 @@
   "showArrow": false,
   "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 0.797817047817048,
-  "lineSizeMultiplier": 1.97952182952183,
+  "lineSizeMultiplier": 0.89968814968815,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4576541028932829,
+  "scale": 0.45765410289328207,
   "close": true
 }

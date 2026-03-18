@@ -11,10 +11,10 @@
             "id": "1350058792a072c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -167,12 +167,22 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
+            }
+          },
+          {
+            "id": "93ca9457d03e4e0d",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,54 +203,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1350058792a072c4",
+  "active": "5cd819d3c87cb01b",
   "lastOpenFiles": [
-    "vault",
-    "unfinished/Autoregression.md",
-    "unfinished/Search Algorithm.md",
-    "unfinished/Grammar.md",
-    "unfinished",
-    "New folder",
-    "media/Pasted image 20260308103839.png",
-    "media/Pasted image 20251231151211.png",
-    "media/Pasted image 20251231150106.png",
-    "media/Pasted image 20260308112302.png",
-    "media/Pasted image 20260308111811.png",
-    "media/Pasted image 20260308100916.png",
-    "media/Pasted image 20260211110042.png",
-    "media/Pasted image 20260211105916.png",
-    "media/Pasted image 20251231143759.png",
-    "media/Pasted image 20251228163539.png",
-    "media",
-    "uc/MEI/other/Knowledge & Language.md",
+    "mei/MEI.md",
+    "mei/subjects/other/MEI.md",
+    "mei/subjects/other",
+    "mei/subjects/NIAI.md",
+    "mei/subjects/GAI.md",
+    "mei/subjects/IT2.md",
+    "mei/subjects/EMCS.md",
+    "mei/subjects/EAI.md",
+    "mei/subjects/CS.md",
+    "mei/subjects",
+    "mei/MEI/other/MEI.md",
+    "mei/MEI/other",
+    "mei/MEI/NIAI.md",
+    "mei/MEI/GAI.md",
+    "mei/MEI/IT2.md",
+    "mei/MEI/EMCS.md",
+    "mei/MEI/EAI.md",
+    "mei/MEI/CS.md",
+    "mei/MEI",
+    "mei/Investigation Topics.md",
+    "mei",
+    "uc_a/MEI/other/MEI.md",
+    "uc_a/MEI/other",
+    "uc_a/MEI/NIAI.md",
+    "uc_a/MEI/IT2.md",
+    "uc_a/MEI/GAI.md",
+    "uc_a/MEI/EMCS.md",
+    "uc_a/MEI/EAI.md",
+    "uc_a/MEI/CS.md",
+    "uc_a/MEI",
+    "uc_a/Investigation Topics.md",
+    "uc_a",
     "uc/MEI/other/MEI.md",
-    "uc/MEI/other/chatty-guide.md",
-    "uc/MEI/NIAI.md",
     "uc/MEI/other",
-    "uc/MEI/GAI.md",
-    "uc/MEI/IT2.md",
-    "uc/MEI/EMCS.md",
-    "uc/MEI/EAI.md",
-    "uc/MEI/CS.md",
+    "uc/MEI/NIAI.md",
     "uc/MEI",
-    "uc/Investigation Topics.md",
-    "uc",
-    "knowledge/AI/subtypes/entertainment/Co-Creativity Generation.md",
-    "knowledge/AI/models/Diffusion Model.md",
-    "knowledge/AI/subtypes/entertainment/Co-Creativity Curation.md",
-    "knowledge/AI/subtypes/entertainment/Co-Creativity.md",
-    "Autoregression.md",
-    "knowledge/AI/models/Seq2Seq.md",
-    "knowledge/AI/models/Large Language Model.md",
-    "knowledge/AI/subtypes/biomimetic/Meta-Heuristics.md",
-    "Grammar.md",
-    "Search Algorithm.md",
-    "knowledge/math/bayes-markov/Markov Model.md",
-    "knowledge/math/bayes-markov/Markov Chain.md",
-    "Untitled 1",
-    "Untitled",
-    "knowledge/math/bayes-markov",
-    "knowledge/math/stat",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "aaa_media/Pasted image 20260308103839.png",
+    "aaa_media/Pasted image 20251231151211.png",
+    "aaa_media/Pasted image 20251231150106.png",
+    "aaa_media/Pasted image 20260308112302.png",
+    "aaa_media/Pasted image 20260308111811.png",
+    "aaa_media/Pasted image 20260308100916.png",
+    "aaa_media/Pasted image 20260211110042.png",
+    "aaa_media/Pasted image 20260211105916.png",
+    "aaa_media/Pasted image 20251231143759.png",
+    "aaa_media/Pasted image 20251228163539.png"
   ]
 }

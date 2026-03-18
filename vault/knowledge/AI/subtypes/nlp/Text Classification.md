@@ -34,5 +34,4 @@ For a pre-defined set of classes $C = \{c_1, c_2, ..., c_j\}$, a labeled dataset
 #### Generative vs. Discriminative Methods
 - **Generative Models:** Learn the joint probability distribution $P(d, c)$ and use it to compute the posterior probability $P(c|d)$ for classification. Examples include [[Naive Bayes Classifier]], [[Hidden Markov Model|HMMs]].
 - **Discriminative Models:** Learn the conditional probability distribution $P(c|d)$ directly, focusing on the decision boundary between classes. Examples include Logistic Regression and [[Neural Network|NNs]].
-In [[Knowledge & Language|KL]], we mention [[Naive Bayes Classifier]] classification and fine-tuning pre-trained [[Large Language Model|LLMs]] and using [[X-Shot Classification|X-shot]] techniques.
 ## [[Performance Metric]]
