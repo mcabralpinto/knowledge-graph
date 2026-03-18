@@ -11,10 +11,14 @@
             "id": "1350058792a072c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/math/stat/experimental/Performance Metric.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Performance Metric"
             }
           }
         ]
@@ -205,6 +209,16 @@
   },
   "active": "5cd819d3c87cb01b",
   "lastOpenFiles": [
+    "knowledge/math/systems/Derivative.md",
+    "knowledge/math/matricial/Matrix Operations.md",
+    "knowledge/math/matricial",
+    "knowledge/math/matricial/Distance Metric.md",
+    "knowledge/math/stat/Divergence.md",
+    "knowledge/math/stat/experimental/Measurement.md",
+    "knowledge/math/stat/experimental",
+    "knowledge/math/stat/experimental/Performance Metric.md",
+    "knowledge/IT/Kappa Agreement.md",
+    "uc/Investigation Topics.md",
     "mei/MEI.md",
     "mei/subjects/other/MEI.md",
     "mei/subjects/other",
@@ -229,18 +243,8 @@
     "uc_a/MEI/other/MEI.md",
     "uc_a/MEI/other",
     "uc_a/MEI/NIAI.md",
-    "uc_a/MEI/IT2.md",
-    "uc_a/MEI/GAI.md",
-    "uc_a/MEI/EMCS.md",
-    "uc_a/MEI/EAI.md",
-    "uc_a/MEI/CS.md",
     "uc_a/MEI",
-    "uc_a/Investigation Topics.md",
     "uc_a",
-    "uc/MEI/other/MEI.md",
-    "uc/MEI/other",
-    "uc/MEI/NIAI.md",
-    "uc/MEI",
     "Untitled.canvas",
     "aaa_media/Pasted image 20260308103839.png",
     "aaa_media/Pasted image 20251231151211.png",
