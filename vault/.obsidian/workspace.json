@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/math/stat/experimental/Performance Metric.md",
+                "file": "knowledge/IT/knowledge/Ontologies & Vocabularies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Performance Metric"
+              "title": "Ontologies & Vocabularies"
             }
           }
         ]
@@ -209,6 +209,11 @@
   },
   "active": "5cd819d3c87cb01b",
   "lastOpenFiles": [
+    "knowledge/IT/web/Linked Data.md",
+    "knowledge/IT/knowledge/Kappa Agreement.md",
+    "knowledge/math/stat/experimental/Performance Metric.md",
+    "knowledge/IT/knowledge",
+    "knowledge/IT/web",
     "knowledge/math/systems/Derivative.md",
     "knowledge/math/matricial/Matrix Operations.md",
     "knowledge/math/matricial",
@@ -216,8 +221,6 @@
     "knowledge/math/stat/Divergence.md",
     "knowledge/math/stat/experimental/Measurement.md",
     "knowledge/math/stat/experimental",
-    "knowledge/math/stat/experimental/Performance Metric.md",
-    "knowledge/IT/Kappa Agreement.md",
     "uc/Investigation Topics.md",
     "mei/MEI.md",
     "mei/subjects/other/MEI.md",
@@ -242,9 +245,6 @@
     "mei",
     "uc_a/MEI/other/MEI.md",
     "uc_a/MEI/other",
-    "uc_a/MEI/NIAI.md",
-    "uc_a/MEI",
-    "uc_a",
     "Untitled.canvas",
     "aaa_media/Pasted image 20260308103839.png",
     "aaa_media/Pasted image 20251231151211.png",
