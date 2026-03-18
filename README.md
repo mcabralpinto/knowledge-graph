@@ -4,4 +4,4 @@ A repository which essentially compiles some of the knowledge I've been gatherin
 
 ## Opening the Vault
 
-The knowledge graph is organized into several sections, each representing a different domain or topic of interest. You can navigate through these sections to explore the interconnected concepts and relationships. It is recommended to use Obsidian to interact with the knowledge graph effectively (open the `vault` folder).
+The knowledge graph is organized into several sections, each representing a different domain or topic of interest. You can navigate through these sections to explore the interconnected concepts and relationships. It is recommended to use [Obsidian](https://obsidian.md) to interact with the knowledge graph effectively (open the `vault` folder).
